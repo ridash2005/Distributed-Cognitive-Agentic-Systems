@@ -1,4 +1,4 @@
-# Distributed Cognitive Architectures & Agentic AI Masterclass
+# Distributed Cognitive Agentic Systems
 
 <!-- BADGES -->
 <div align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-This repository serves as a professional, hands-on engineering curriculum for designing, implementing, and evaluating **Distributed Cognitive Agent Systems**. It moves beyond standard chat completions to construct stateful, cyclical, autonomous systems capable of dynamic planning, self-correction, tools execution, context sandboxing, and collaborative multi-agent problem solving.
+This repository serves as prototype for designing, implementing, and evaluating **Distributed Cognitive Agent Systems**. It moves beyond standard chat completions to construct stateful, cyclical, autonomous systems capable of dynamic planning, self-correction, tools execution, context sandboxing, and collaborative multi-agent problem solving.
 
 ---
 
