@@ -1,11 +1,11 @@
-# 🚀 Distributed Cognitive Architectures & Agentic AI Masterclass
+# Distributed Cognitive Architectures & Agentic AI Masterclass
 
 <!-- BADGES -->
 <div align="center">
 
-[![Repository Stars](https://img.shields.io/github/stars/ridash2005/Agentic-AI?style=for-the-badge&color=89b4fa&logo=github)](https://github.com/ridash2005/Agentic-AI/stargazers)
-[![Repository Issues](https://img.shields.io/github/issues/ridash2005/Agentic-AI?style=for-the-badge&color=f38ba8&logo=github)](https://github.com/ridash2005/Agentic-AI/issues)
-[![License: MIT](https://img.shields.io/github/license/ridash2005/Agentic-AI?style=for-the-badge&color=a6e3a1)](https://github.com/ridash2005/Agentic-AI/blob/master/LICENSE)
+[![GitHub Stars](https://img.shields.io/badge/GitHub-Stars-89b4fa?style=for-the-badge&logo=github)](https://github.com/ridash2005/Agentic-AI/stargazers)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-f38ba8?style=for-the-badge&logo=github)](https://github.com/ridash2005/Agentic-AI/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-a6e3a1?style=for-the-badge)](https://github.com/ridash2005/Agentic-AI/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&color=f9e2af)](https://www.python.org/)
 
 [![Orchestration: LangChain](https://img.shields.io/badge/Orchestration-LangChain%20v0.3-green?style=for-the-badge&color=a6e3a1&logo=chainlink)](https://python.langchain.com/)
